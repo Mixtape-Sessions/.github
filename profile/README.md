@@ -1,4 +1,4 @@
-![Mixtape Sessions Logo](MixtapeSessions.png)
+![Mixtape Sessions Logo](https://raw.githubusercontent.com/Mixtape-Sessions/.github/main/profile/MixtapeSessions.png)
 
 # Mixtape Sessions
 
