@@ -23,6 +23,10 @@ A goal of ours is to create a body of high-quality lecture material that individ
 <a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Advanced-DID/main/img/banner.png" alt="Advanced Difference-in-Differences"/>
 </a>
+<a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
+</a>
+
 
 ## Support and Questions
 
