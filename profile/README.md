@@ -8,12 +8,21 @@ Mixtape Sessions aims to provide high-quality and approachable courses in Casual
 
 A goal of ours is to create a body of high-quality lecture material that individuals can access *for free* as a byproduct of our company. In this github organization, you will find repositories containing our (growing!) library of workshops:
 
+### Mixtape Sessions
+
+This two-part series is designed to survey the large and complicated field of causal inference following the structure of Scott Cunninghams's book, Causal Inference: The Mixtape . We will review the theory behind each of these research designs in detail with the aim being comprehension, competency and confidence.
+
 <a href="https://github.com/Mixtape-Sessions/Causal-Inference-1/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Causal-Inference-1/main/img/banner.png" alt="Causal Inference 1"/>
 </a>
 <a href="https://github.com/Mixtape-Sessions/Causal-Inference-2/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Causal-Inference-2/main/img/banner.png" alt="Causal Inference 2"/>
 </a>
+
+### Mixtape Tracks 
+
+These shorter courses are taught by a leading researcher focusing on specific topics.
+
 <a href="https://github.com/Mixtape-Sessions/Instrumental-Variables/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/img/banner.png" alt="Instrumental Variables"/>
 </a>
@@ -23,10 +32,12 @@ A goal of ours is to create a body of high-quality lecture material that individ
 <a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Advanced-DID/main/img/banner.png" alt="Advanced Difference-in-Differences"/>
 </a>
-<a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
+<a href="https://github.com/Mixtape-Sessions/Doing-Applied-Research/">
   <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
 </a>
-
+<a href="https://github.com/Mixtape-Sessions/Machine-Learning/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Machine-Learning/raw/main/img/banner.png" alt="Machine Learning"/>
+</a>
 
 ## Support and Questions
 
