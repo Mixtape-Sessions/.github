@@ -32,11 +32,17 @@ These shorter courses are taught by a leading researcher focusing on specific to
 <a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Advanced-DID/main/img/banner.png" alt="Advanced Difference-in-Differences"/>
 </a>
-<a href="https://github.com/Mixtape-Sessions/Doing-Applied-Research/">
-  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
+<a href="https://github.com/Mixtape-Sessions/Machine-Learning/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Synthetic-Control-and-Clustering/raw/main/img/banner.png" alt="Synthetic Control and Clustering"/>
 </a>
 <a href="https://github.com/Mixtape-Sessions/Machine-Learning/">
-  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Machine-Learning/raw/main/img/banner.png" alt="Machine Learning"/>
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Machine-Learning/raw/main/img/banner.png" alt="Machine Learning and Causal Inference"/>
+</a>
+<a href="https://github.com/Mixtape-Sessions/Machine-Learning/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Heterogeneous-Effects/raw/main/img/banner.png" alt="Machine Learning and Heterogeneous Effects"/>
+</a>
+<a href="https://github.com/Mixtape-Sessions/Doing-Applied-Research/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
 </a>
 
 ## Support and Questions
