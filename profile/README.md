@@ -26,14 +26,14 @@ These shorter courses are taught by a leading researcher focusing on specific to
 <a href="https://github.com/Mixtape-Sessions/Instrumental-Variables/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Instrumental-Variables/main/img/banner.png" alt="Instrumental Variables"/>
 </a>
-<a href="https://github.com/Mixtape-Sessions/Shift-Share/">
-  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Shift-Share/main/img/banner.png" alt="Shift-Share IV"/>
-</a>
-<a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
-  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Advanced-DID/main/img/banner.png" alt="Advanced Difference-in-Differences"/>
+<a href="https://github.com/Mixtape-Sessions/Regression-Discontinuity/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Regression-Discontinuity/raw/main/img/banner.png" alt="Doing Applied Research"/>
 </a>
 <a href="https://github.com/Mixtape-Sessions/Synthetic-Control-and-Clustering/">
   <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Synthetic-Control-and-Clustering/raw/main/img/banner.png" alt="Synthetic Control and Clustering"/>
+</a>
+<a href="https://github.com/Mixtape-Sessions/Doing-Applied-Research/">
+  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
 </a>
 <a href="https://github.com/Mixtape-Sessions/Machine-Learning/">
   <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Machine-Learning/raw/main/img/banner.png" alt="Machine Learning and Causal Inference"/>
@@ -41,11 +41,14 @@ These shorter courses are taught by a leading researcher focusing on specific to
 <a href="https://github.com/Mixtape-Sessions/Heterogeneous-Effects/">
   <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Heterogeneous-Effects/raw/main/img/banner.png" alt="Machine Learning and Heterogeneous Effects"/>
 </a>
-<a href="https://github.com/Mixtape-Sessions/Doing-Applied-Research/">
-  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Doing-Applied-Research/raw/main/img/banner.png" alt="Doing Applied Research"/>
+<a href="https://github.com/Mixtape-Sessions/Advanced-DID/">
+  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Advanced-DID/main/img/banner.png" alt="Advanced Difference-in-Differences"/>
 </a>
-<a href="https://github.com/Mixtape-Sessions/Regression-Discontinuity/">
-  <img style="width: 48%;" src="https://github.com/Mixtape-Sessions/Regression-Discontinuity/raw/main/img/banner.png" alt="Doing Applied Research"/>
+<a href="https://github.com/Mixtape-Sessions/Shift-Share/">
+  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Shift-Share/main/img/banner.png" alt="Shift-Share IV"/>
+</a>
+<a href="https://github.com/Mixtape-Sessions/Frontiers-in-DID/">
+  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Frontiers-in-DID/main/img/banner.png" alt="Frontiers in Difference-in-Differences"/>
 </a>
 
 ## Support and Questions
