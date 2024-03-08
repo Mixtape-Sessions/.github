@@ -18,6 +18,9 @@ This two-part series is designed to survey the large and complicated field of ca
 <a href="https://github.com/Mixtape-Sessions/Causal-Inference-2/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Causal-Inference-2/main/img/banner.png" alt="Causal Inference 2"/>
 </a>
+<a href="https://github.com/Mixtape-Sessions/Causal-Inference-3/">
+  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Causal-Inference-3/main/img/banner.png" alt="Causal Inference 3"/>
+</a>
 
 ### Mixtape Tracks 
 
@@ -49,6 +52,9 @@ These shorter courses are taught by a leading researcher focusing on specific to
 </a>
 <a href="https://github.com/Mixtape-Sessions/Frontiers-in-DID/">
   <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Frontiers-in-DID/main/img/banner.png" alt="Frontiers in Difference-in-Differences"/>
+</a>
+<a href="https://github.com/Mixtape-Sessions/Demand-Estimation/">
+  <img style="width: 48%;" src="https://raw.githubusercontent.com/Mixtape-Sessions/Demand-Estimation/main/img/banner.png" alt="Demand Estimation"/>
 </a>
 
 ## Support and Questions
